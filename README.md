@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Juan Ignacio Ron, I'm 34 year old and I'm from La Plata City, in Buenos Aires Province, Argentina.
-- 🍺 Currently I'm working as Global People Analytics Manager for AB-InBev.
-- 👀 I’m interested in Data Science and Data Analytics.
-- 🌱 I’m currently learning ANN and Deep Learning.
+- 👋 Hi, I’m Juan Ignacio Ron, I'm 36 year old and I'm from La Plata City, in Buenos Aires Province, Argentina.
+- 🌱 Currently I'm working as Data Analyst for Chevron.
+- 👀 I’m interested in Data Science and Data Analytics. 
 - 📫 How to reach me: juanignacioron@gmail.com.
 
 <!---
